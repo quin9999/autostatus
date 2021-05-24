@@ -30,5 +30,7 @@ and add your information in the empty `""`.
  "delay": "",
 }
 ```
+When choosing the `delay` in when your editing the `config.json` make sure it not to fast as discord can ratelimit you and you could
+have a chance of getting disabled. In my opinion a number between `15-25` would be a good choice.
 
 
